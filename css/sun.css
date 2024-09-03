@@ -1,0 +1,6 @@
+[data-theme='light']{
+    --card-bg: rgba(255, 255, 255, .8);
+}
+[data-theme='dark']{
+    --card-bg: rgba(13, 13, 13, .6);
+}
